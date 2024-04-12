@@ -1,0 +1,199 @@
+.android-large-1-child {
+    position: absolute;
+    top: 696px;
+    left: 299px;
+    width: 60px;
+    height: 60px;
+  }
+  .track-your-goal {
+    position: absolute;
+    top: 499px;
+    left: 16px;
+    font-size: 20px;
+    font-weight: 600;
+  }
+  .dont-worry-if,
+  .skip {
+    position: absolute;
+    font-weight: 500;
+  }
+  .dont-worry-if {
+    top: 538px;
+    left: 16px;
+    color: #787878;
+    display: inline-block;
+    width: 343px;
+  }
+  .skip {
+    top: 44px;
+    left: 323px;
+    text-decoration: underline;
+    color: #9fb2ff;
+  }
+  .image-13-icon {
+    position: absolute;
+    top: 132px;
+    left: calc(50% - 141.5px);
+    width: 282px;
+    height: 282px;
+    object-fit: cover;
+  }
+  .android-large-1-item {
+    position: absolute;
+    bottom: -96px;
+    left: calc(50% - 1611.5px);
+    border-radius: 20px;
+    background-color: #000;
+    width: 390px;
+    height: 77px;
+  }
+  .android-large-1-inner {
+    position: absolute;
+    height: 3.38%;
+    width: 66.93%;
+    top: 104.25%;
+    right: 394.4%;
+    bottom: -7.62%;
+    left: -361.33%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }  
+  .rectangle {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-color: #fff;
+    display: none;
+  }
+  .border,
+  .cap-icon {
+    position: absolute;
+    mix-blend-mode: normal;
+  }
+  .border {
+    width: 22px;
+    height: 11.33px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    opacity: 0.35;
+    right: 2.3px;
+    border-radius: 2.67px;
+    border: 1px solid #252727;
+    box-sizing: border-box;
+    
+  
+  }
+  .cap-icon {
+    width: 1.3px;
+    height: 4px;
+    left: 23px;
+    top: 3.67px;
+    position: absolute;
+    opacity: 0.40;
+    background: #252727;
+  }
+  .capacity {
+
+    width: 18px; 
+    height: 7.33px;
+    left: 2px;
+    top: 2px;
+    position: absolute;
+    background: #252727;
+    border-radius: 1.33px; 
+    border: 1px solid #252727
+
+
+    
+
+
+   /* position: absolute;
+    top: 2px;
+    right: 4.3px;
+    border-radius: 1.33px;
+    background-color: #252727;
+    width: 16px;
+    height: 7.3px;*/
+  }
+  .battery {
+    width: 24.3px;
+    height: 11.3px;
+    left: 42.33px;
+    top: 0;
+    position: absolute;
+ 
+    /*right: 0.1px;*/
+   
+  }
+  .wifi-icon {
+    width: 15.33px;
+     height: 11px; 
+     left: 22px; 
+     top: 0px; 
+     position: absolute
+    /*position: relative;
+    width: 15.3px;
+    height: 11px;*/
+  }
+  .cellular-connection-icon {
+    width: 17px; 
+    height: 10.67px; 
+    left: 0px;
+     top: 1px;
+      position: absolute
+   /* position: relative;
+    width: 17px;
+    height: 10.7px;*/
+  }
+  .status-bar {
+    top: 16px;
+    right: 14.3px;
+    width: 66.7px;
+    height: 11.7px;
+  }
+  .status,
+  .status-bar,
+  .time {
+    position: absolute;
+  }
+  .time {
+    width: 14.4%;
+    top: calc(50% - 10px);
+    left: 3.73%;
+    letter-spacing: -0.3px;
+    font-weight: 600;
+    display: inline-block;
+  }
+  .status {
+    top: 0;
+    left: 0;
+    width: 375px;
+    height: 44px;
+    overflow: hidden;
+    text-align: center;
+    font-size: 15px;
+    color: #252727;
+  }
+  .android-large-1 {
+    width: 375px;
+    height: 800px;
+    gap: 0px;
+    border-radius: 10px 0px 0px 0px;
+    opacity: 0px;
+    position: relative;
+    border-radius: 10px;
+    background-color: #fcfcfc;
+    overflow: hidden;
+    text-align: left;
+    font-size: 16px;
+    color: #2c2b2b;
+    font-family: Montserrat;
+  }
+  
+  

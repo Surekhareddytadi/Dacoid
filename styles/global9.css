@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    line-height: normal;
+  }
+  
+  :root {
+    /* fonts */
+    --font-montserrat: Montserrat;
+    --font-quicksand: Quicksand;
+  
+    /* font sizes */
+    --font-size-xs: 12px;
+    --font-size-9xl-5: 28.5px;
+    --font-size-xs-4: 11.4px;
+  
+    /* Colors */
+    --color-gray-100: #fcfcfc;
+    --color-gray-200: #808080;
+    --black: #2c2b2b;
+    --color-gray-300: #252727;
+    --color-white: #fff;
+    --gray-50: #f1f1f1;
+    --color-royalblue-100: #5883f7;
+    --color-royalblue-200: #5472db;
+  
+    /* Border radiuses */
+    --br-xl: 20px;
+    --br-3xs: 10px;
+  }
+  
