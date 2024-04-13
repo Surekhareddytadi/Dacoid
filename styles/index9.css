@@ -546,14 +546,17 @@ android-large-9-child {
   .android-large-9 {
     width: 375px;
     height: 800px;
-    position: relative;
+    gap: 0px;
     border-radius: 10px 0px 0px 0px;
+    opacity: 0px;
+    position: relative;
     background-color: #fcfcfc;
     overflow: hidden;
-    text-align: center;
-    border-radius: var(--br-3xs);
-    background-color: var(--color-gray-100);
-    font-size: var(--font-size-xs);
-    color: var(--black);
-    font-family: var(--font-montserrat);
+    margin: 0 auto;
+    text-align: left;
+    font-size: 16px;
+    color: #2c2b2b;
+    display: flex; 
+    flex-direction: column;
+    font-family: Montserrat;
   }
